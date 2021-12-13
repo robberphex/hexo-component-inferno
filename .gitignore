@@ -122,5 +122,5 @@ package-lock.json
 yarn.lock
 
 # Built files
-lib/
-doc/
+/lib/
+/doc/
